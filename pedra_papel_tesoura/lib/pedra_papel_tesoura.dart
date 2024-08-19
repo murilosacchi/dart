@@ -71,6 +71,7 @@ void jogo() {
       exibe(vencedor);
       exibe('****************************************');
     }
+    sleep(Duration(seconds: 3));
   } while (escolhaUsuario != 4);
   exibe('Até logo');
 }
