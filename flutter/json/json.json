@@ -1,0 +1,37 @@
+{
+    "cnpj": "10.531.501/0011-20",
+    "filiais": [
+        {
+            "nome": "Concessionaria Centro",
+            "endereco": "Rua Santa Efigênia, 168, Centro",
+            "veiculos": [
+                {
+                    "modelo1": "XC90",
+                    "placa": "BPQ-0J99",
+                    "marca": "Volvo"
+                },
+                {
+                    "modelo2": "New Fiesta",
+                    "placa": "FXQ-3G46",
+                    "marca": "Ford"
+                }
+            ]
+        },
+        {
+            "nome": "Concessionaria Bairro",
+            "endereco": "Rua da Mooca, 300, Mooca",
+            "veiculos": [
+                {
+                    "modelo1": "AMG",
+                    "placa": "BQQ-1G33",
+                    "marca": "Mercedes"
+                },
+                {
+                    "modelo2": "911",
+                    "placa": "PLB-5L66",
+                    "marca": "Porsche"
+                }
+            ]
+        }
+    ]
+}
